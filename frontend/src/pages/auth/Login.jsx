@@ -90,7 +90,7 @@ export default function Login() {
 
             <div className="mt-4 p-3 rounded-md bg-muted/50 text-xs text-muted-foreground">
               <p className="font-medium mb-1">Demo credentials:</p>
-              <p>Email: pandeyarpit28212@gmail.com.com | Pass: harharmahadev</p>
+              <p>Email: pandeyarpit28212@gmail.com | Pass: harharmahadev</p>
             </div>
 
             <p className="text-center text-sm text-muted-foreground mt-4">
